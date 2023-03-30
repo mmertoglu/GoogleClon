@@ -9,8 +9,8 @@
 
 # Photos 
 
-### Home Page 
-<img src="https://github.com/mmertoglu/GoogleClon/blob/master/images/webpage1.jpg" width="500"  /> 
+
+<img src="https://github.com/mmertoglu/GoogleClon/blob/master/images/webpage1.jpg" width="800"  /> 
 
 
 
